@@ -1,12 +1,23 @@
-## Hi there 👋
+<p align="center">
+  <em>Lineage 2 Node.js server written in JavaScript</em>
+</p>
 
-<!--
+<p align="center">
+  <a href="https://lineage2js.github.io/docs/">
+    <img src="https://img.shields.io/badge/Docs-0069d9" />
+  </a>
+</p>
 
-**Here are some ideas to get you started:**
+<p align="center">
+  A set of applications for creating and managing a server for the game Lineage 2 Chronicle 1: Harbingers of War.
+</p>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<p align="center">
+  <a href="https://www.youtube.com/@lineage2js">
+    <img src="https://img.shields.io/badge/Youtube-f00?logo=youtube&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://lineage2js.github.io/"><strong>lineage2js.github.io</strong></a>
+</p>
