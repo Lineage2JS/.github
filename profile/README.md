@@ -13,9 +13,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/@lineage2js">
-    <img src="https://img.shields.io/badge/Youtube-f00?logo=youtube&logoColor=white" />
-  </a>
+  <a href="https://www.youtube.com/@lineage2js"><img src="https://img.shields.io/badge/Youtube-f00?logo=youtube&logoColor=white" /></a>
+  <a href="https://t.me/lineage2js"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white" /></a>
 </p>
 
 <p align="center">
