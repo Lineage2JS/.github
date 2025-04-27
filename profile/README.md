@@ -1,5 +1,5 @@
 <p align="center">
-  <em>Lineage 2 Node.js server written in JavaScript</em>
+  <em>Lineage 2 Chronicle 1: Harbingers of War – server emulator (written in JavaScript)</em>
 </p>
 
 <p align="center">
