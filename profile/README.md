@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://lineage2js.github.io/docs/">
+  <a href="https://lineage2js.github.io/docs/guide/get-started/">
     <img src="https://img.shields.io/badge/Docs-0069d9" />
   </a>
 </p>
