@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  A set of applications for creating and managing a server for the game Lineage 2 Chronicle 1: Harbingers of War.
+  A collection of tools and applications for setting up and managing private servers for Lineage 2 Chronicle 1: Harbingers of War.
 </p>
 
 <p align="center">
