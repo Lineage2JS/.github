@@ -3,9 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://lineage2js.github.io/docs/guide/get-started/">
-    <img src="https://img.shields.io/badge/Docs-0069d9" />
-  </a>
+  <a href="https://lineage2js.github.io/docs/guide/get-started/"><img src="https://img.shields.io/badge/Downloads-0d6efd" /></a>
+  <a href="https://lineage2js.github.io/docs/guide/get-started/"><img src="https://img.shields.io/badge/Get%20started-198754" /></a>
 </p>
 
 <p align="center">
