@@ -1,4 +1,8 @@
-<h2 align="center">Lineage2JS - Server emulator (written in JavaScript)</h2>
+<h2 align="center">Lineage2JS</h2>
+
+<p align="center">
+  <em>Server emulator (written in JavaScript)</em>
+</p>
 
 <p align="center">
   <img width="60%" src="https://raw.githubusercontent.com/lineage2js/.github/main/profile/images/main.png" />
