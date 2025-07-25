@@ -1,5 +1,7 @@
+<h1 align="center">Lineage2JS</h1>
+
 <p align="center">
-  <em>Lineage 2 Chronicle 1: Harbingers of War – server emulator (written in JavaScript)</em>
+  <em>Server emulator (written in JavaScript)</em>
 </p>
 
 <p align="center">
@@ -12,7 +14,7 @@
 </p>
 
 <p align="center">
-  A collection of tools and applications for setting up and managing private servers for Lineage 2 Chronicle 1: Harbingers of War.
+  Tools and apps for private server Lineage 2 Chronicle 1: Harbingers of War.
 </p>
 
 <p align="center">
