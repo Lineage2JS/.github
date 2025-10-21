@@ -22,8 +22,8 @@
 
 <div align="center">
   
-  [![Youtube](https://img.shields.io/badge/Youtube-f00?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@lineage2js)
-  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/lineage2js)
+  [![YouTube](https://img.shields.io/badge/YouTube-f00?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@lineage2js)
+  [![Telegram](https://img.shields.io/badge/Telegram-24A1DE?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/lineage2js)
   
 </div>
 
