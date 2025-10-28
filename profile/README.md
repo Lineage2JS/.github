@@ -17,7 +17,7 @@
 </div>
 
 <p align="center">
-  Tools and apps for private server Lineage 2 Chronicle 1: Harbingers of War.
+  An open-source server emulator for Lineage 2 Chronicle 1: Harbingers of War.
 </p>
 
 <div align="center">
