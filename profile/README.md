@@ -1,7 +1,7 @@
 <h1 align="center">Lineage2JS</h1>
 
 <p align="center">
-  <em>Server emulator (written in JavaScript)</em>
+  <em>Server emulator written in JavaScript</em>
 </p>
 
 <p align="center">
