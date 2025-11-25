@@ -1,8 +1,6 @@
 <h1 align="center">Lineage2JS</h1>
 
-<p align="center">
-  <em>Server emulator written in JavaScript</em>
-</p>
+<p align="center">Server emulator written in JavaScript</p>
 
 <p align="center">
   <img width="75%" src="https://raw.githubusercontent.com/lineage2js/.github/main/profile/images/main.png" />
